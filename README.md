@@ -63,4 +63,6 @@ Frontend runs on `http://localhost:3000`
 - Global exception handling for all API errors
 - Environment-based configuration for sensitive credentials
 - Removed hardcoded magnitude check for 2 and replaced it with generic method
-   
+
+## Preview
+![Earthquake Dashboard](earthquakes_app_screenshot.png)
