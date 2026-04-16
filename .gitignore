@@ -1,0 +1,11 @@
+# Backend
+earthquake_back/.idea
+earthquake_back/Earthquake/target/
+earthquake_back/Earthquake/*.iws
+earthquake_back/Earthquake/*.iml
+earthquake_back/Earthquake/*.ipr
+earthquake_back/Earthquake/src/main/resources/application-local.properties
+
+# Frontend
+earthquake_front/node_modules/
+earthquake_front/.env
