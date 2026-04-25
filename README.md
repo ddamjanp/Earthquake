@@ -32,6 +32,7 @@ earthquake/
 3. Run:
    
    #### npm install
+   #### npm install axios
    #### npm start
 Frontend runs on `http://localhost:3000`
 
